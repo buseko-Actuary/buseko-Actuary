@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Buseko 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Specialist;Founder%2C+Insight+Analytics;n8n+%2B+Claude+%2B+Applied+AI;Lusaka%2C+Zambia" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Specialist;Co-Founder%2C+Insight+Analytics;n8n+%2B+Claude+%2B+Applied+AI;Lusaka%2C+Zambia" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### About
 
-I'm a final-year Actuarial Science student and the founder of **Insight Analytics**, a Lusaka-based consultancy where I work as the **AI & Automation Specialist** — designing and shipping the automation systems we build for clients.
+I'm a final-year Actuarial Science student and a co-founder of **Insight Analytics**, a Lusaka-based consultancy where I work as the **AI & Automation Specialist** — designing and shipping the automation systems we build for clients.
 
 I take businesses off manual spreadsheets and WhatsApp backlogs and put them on systems that run themselves: AI agents that read, decide, and act; workflows that watch a folder or an inbox and produce a finished report; and dashboards that update themselves. My background in actuarial science shapes how I build — every automation is designed around the data model and the edge cases first, not just the happy path.
 
@@ -78,4 +78,4 @@ Alongside client automation work, I build and publish machine learning projects 
 
 I'm open to roles and collaborations in AI/automation engineering, applied data work, and actuarial-adjacent analytics.
 
-📍 Lusaka, Zambia · 💼 Founder & AI/Automation Specialist, Insight Analytics
+📍 Lusaka, Zambia · 💼 Co-Founder & AI/Automation Specialist, Insight Analytics
