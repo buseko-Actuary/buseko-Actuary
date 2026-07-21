@@ -52,6 +52,13 @@ I take businesses off manual spreadsheets and WhatsApp backlogs and put them on 
 | 📄 **AI CV Screening — Zega** | Claude-powered resume screening pipeline: intake, per-role ranking, and scheduled PDF shortlist reports |
 | 📊 **Excel → Executive Dashboard → PDF** | Drop any transactional Excel into Drive → auto-generates a full KPI dashboard with dynamic charts as PDF |
 | 💬 **WhatsApp Business Automation Suite** | Loan reminders + mobile-money collection, invoice generation from plain text, and reply-only AI support bots |
+
+### 📊 Excel business systems
+
+Practical, form-driven operational tools built entirely in Excel & VBA — see the **[Excel-Business-Systems](https://github.com/buseko-Actuary/Excel-Business-Systems)** repo:
+
+| System | What it does |
+|---|---|
 | 🎓 **HR Training Compliance Matrix — Zega** | Scaled Excel system tracking staff certifications, expiry alerts, and compliance dashboards |
 | 🚚 **Fleet & Driver Management — Platinum Courier** | Logistics system with automated distance calculation, trip logging, and driver/vehicle management |
 
