@@ -70,6 +70,17 @@ Alongside client automation work, I build and publish machine learning projects 
 - 🫀 **[HDP](https://github.com/buseko-Actuary/HDP)** — heart disease risk classification from clinical data
 - 📈 **[Logistic-Regression](https://github.com/buseko-Actuary/Logistic-Regression)** — a collection of real-world classification projects
 - 🌳 **[Confusion-Matrix](https://github.com/buseko-Actuary/Confusion-Matrix)** — Logistic Regression vs Decision Tree, compared head-to-head
+
+### 📜 Certifications
+
+Verified certificates of completion. Each links to the issuer's public verification page.
+
+| Certificate | Issued by | Verify |
+|---|---|---|
+| **Essentials: Your First Workflows** | n8n Academy | [Verify](https://learn.n8n.io/certificates/8c0e1ea67c514a13a1cb588188f1d7dd) |
+| **Excel Skills for Business: Essentials** | Macquarie University · Coursera | [Verify](https://coursera.org/verify/7OOUC4DZ77AJ) |
+| **Excel Skills for Business: Intermediate I** | Macquarie University · Coursera | [Verify](https://coursera.org/verify/14RKC9WZMBPX) |
+
 ### GitHub stats
 
 <p align="center">
