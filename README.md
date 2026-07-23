@@ -77,10 +77,8 @@ Verified certificates of completion. Each links to the issuer's public verificat
 
 | Certificate | Issued by | Verify |
 |---|---|---|
+| **Excel Skills for Business — Specialization** <br/><sub>4 courses: Essentials · Intermediate I · Intermediate II · Advanced</sub> | Macquarie University · Coursera | [Verify](https://coursera.org/verify/specialization/0XF71PN16IRW) |
 | **Essentials: Your First Workflows** | n8n Academy | [Verify](https://learn.n8n.io/certificates/8c0e1ea67c514a13a1cb588188f1d7dd) |
-| **Excel Skills for Business: Essentials** | Macquarie University · Coursera | [Verify](https://coursera.org/verify/7OOUC4DZ77AJ) |
-| **Excel Skills for Business: Intermediate I** | Macquarie University · Coursera | [Verify](https://coursera.org/verify/14RKC9WZMBPX) |
-| **Excel Skills for Business: Intermediate II** | Macquarie University · Coursera | [Verify](https://coursera.org/verify/2BOO365E9KC1) |
 
 ### GitHub stats
 
